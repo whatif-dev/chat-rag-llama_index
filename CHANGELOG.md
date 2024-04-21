@@ -1,5 +1,16 @@
 # create-llama
 
+## 0.0.33
+
+### Patch Changes
+
+- a0dec80: Use `gpt-4-turbo` model as default. Upgrade Python llama-index to 0.10.28
+- 753229d: Remove asking for AI models and use defaults instead (OpenAIs GPT-4 Vision Preview and Embeddings v3). Use `--ask-models` CLI parameter to select models.
+- 1d78202: Add observability for Python
+- 6acccd2: Use poetry run generate to generate embeddings for FastAPI
+- 9efcffe: Use Settings object for LlamaIndex configuration
+- 1be69a5: Add Qdrant support
+
 ## 0.0.32
 
 ### Patch Changes
