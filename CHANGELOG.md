@@ -1,5 +1,12 @@
 # create-llama
 
+## 0.1.21
+
+### Patch Changes
+
+- 58e6c15: Add using LlamaParse for private file uploader
+- 455ab68: Display files in sources using LlamaCloud indexes.
+
 ## 0.1.20
 
 ### Patch Changes
